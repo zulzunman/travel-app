@@ -1,0 +1,8 @@
+E:\backup d\Programers\Vb.net\ahhhh\ahhhh\obj\Release\ahhhh.vbproj.AssemblyReference.cache
+E:\backup d\Programers\Vb.net\ahhhh\ahhhh\obj\Release\ahhhh.Form1.resources
+E:\backup d\Programers\Vb.net\ahhhh\ahhhh\obj\Release\ahhhh.Form2.resources
+E:\backup d\Programers\Vb.net\ahhhh\ahhhh\obj\Release\ahhhh.Form3.resources
+E:\backup d\Programers\Vb.net\ahhhh\ahhhh\obj\Release\ahhhh.Form4.resources
+E:\backup d\Programers\Vb.net\ahhhh\ahhhh\obj\Release\ahhhh.Resources.resources
+E:\backup d\Programers\Vb.net\ahhhh\ahhhh\obj\Release\ahhhh.vbproj.GenerateResource.cache
+E:\backup d\Programers\Vb.net\ahhhh\ahhhh\obj\Release\ahhhh.vbproj.CoreCompileInputs.cache
